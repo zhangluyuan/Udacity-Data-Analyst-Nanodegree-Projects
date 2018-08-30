@@ -1,0 +1,4 @@
+References:
+http://stackoverflow.com  
+http://r-statistics.co   
+http://www.rstudio.com   
