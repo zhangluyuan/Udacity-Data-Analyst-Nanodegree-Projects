@@ -1,4 +1,4 @@
-P1- Introductory: Explore weather trends
+P1- Introductory: Explore weather trends<br>
 P2- Introduction to Python: Explore US bikeshare with Python
 P3- Introduction to aata analysis: Investigate European soccer data
 P4- Practical statistics: A/B testing
