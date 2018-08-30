@@ -1,0 +1,1 @@
+Data was downloded from kaggle. https://www.kaggle.com/hugomathien/soccer I analyzed the two major tables: match and player_attributes. For each table, I asked three questions and answered them through analysis.
