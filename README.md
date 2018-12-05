@@ -1,6 +1,6 @@
 P1- Introductory: Explore weather trends<br>
 P2- Introduction to Python: Explore US bikeshare with Python<br>
-P3- Introduction to aata analysis: Investigate European soccer data<br>
+P3- Introduction to Data analysis: Investigate European soccer data<br>
 P4- Practical statistics: A/B testing<br>
 P5- Test a perceptual phenomenon<br>
 P6- Exploratory data analysis with R: Exploring red wine quality<br>
